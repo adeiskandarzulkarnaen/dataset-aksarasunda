@@ -25,7 +25,7 @@ Dataset ini memiliki struktur folder sebagai berikut:
     │
     └──
     │
-    └── ia/
+    └── za/
         ├── gambar1.png
         ├── gambar2.png
         └── ...
