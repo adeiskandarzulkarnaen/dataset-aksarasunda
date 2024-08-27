@@ -6,6 +6,7 @@ Proyek ini menyediakan dataset gambar aksara Sunda untuk keperluan penelitian da
 
 Gambar dalam dataset ini memiliki ukuran 224x224 piksel dan latar belakang putih, memastikan konsistensi dan kualitas visual yang baik.
 
+
 ## Struktur Dataset
 
 Dataset ini memiliki struktur folder sebagai berikut:
@@ -36,6 +37,7 @@ Dataset ini memiliki struktur folder sebagai berikut:
 
 Dataset ini dilisensikan di bawah [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). Anda bebas menggunakan dataset ini untuk keperluan pribadi maupun komersial dengan syarat Anda mencantumkan sumbernya sesuai dengan ketentuan lisensi.
 
+
 ### Ketentuan Lisensi
 
 - **Penggunaan Bebas**: Anda dapat menggunakan, menyalin, dan mendistribusikan dataset ini dalam bentuk asli maupun modifikasi.
@@ -44,9 +46,6 @@ Dataset ini dilisensikan di bawah [Apache License 2.0](http://www.apache.org/lic
 
 - **Modifikasi**: Anda dapat memodifikasi dataset ini, tetapi modifikasi harus disertai dengan pemberitahuan yang jelas tentang perubahan yang dilakukan.
 
-## Struktur Dataset
-
-Deskripsi tentang struktur dataset dan bagaimana file disusun. Misalnya:
 
 ## Cara Menggunakan
 
@@ -60,6 +59,7 @@ Deskripsi tentang struktur dataset dan bagaimana file disusun. Misalnya:
    ```
    Dataset dapat diakses di dalam folder datasets/
    ```
+
 
 ## Kontribusi
 
