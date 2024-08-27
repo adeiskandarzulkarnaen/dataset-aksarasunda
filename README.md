@@ -11,7 +11,7 @@ Gambar dalam dataset ini memiliki ukuran 224x224 piksel dan latar belakang putih
 Dataset ini memiliki struktur folder sebagai berikut:
 
 ```
-    datasets/
+    dataset/
     │
     ├── a/
     │   ├── gambar1.png
