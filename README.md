@@ -14,21 +14,14 @@ Dataset ini memiliki struktur folder sebagai berikut:
 ```
     dataset/
     │
-    ├── a/
-    │   ├── gambar1.png
-    │   ├── gambar2.png
+    ├── train/
+    │   ├── a/
+    │   ├── é/
     │   └── ...
     │
-    └── i/
-    │   ├── gambar1.png
-    │   ├── gambar2.png
-    │   └── ...
-    │
-    └── ...
-    │
-    └── za/
-        ├── gambar1.png
-        ├── gambar2.png
+    └── test/
+        ├── a/
+        ├── é/
         └── ...
 
 ```
@@ -38,13 +31,13 @@ Dataset ini memiliki struktur folder sebagai berikut:
 Dataset ini dilisensikan di bawah [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). Anda bebas menggunakan dataset ini untuk keperluan pribadi maupun komersial dengan syarat Anda mencantumkan sumbernya sesuai dengan ketentuan lisensi.
 
 
-### Ketentuan Lisensi
+<!-- ### Ketentuan Lisensi -->
 
-- **Penggunaan Bebas**: Anda dapat menggunakan, menyalin, dan mendistribusikan dataset ini dalam bentuk asli maupun modifikasi.
+<!-- - **Penggunaan Bebas**: Anda dapat menggunakan, menyalin, dan mendistribusikan dataset ini dalam bentuk asli maupun modifikasi. -->
 
-- **Pencantuman Sumber**: Anda harus menyertakan pemberitahuan lisensi ini dan mencantumkan atribusi yang sesuai saat mendistribusikan dataset ini.
+<!-- - **Pencantuman Sumber**: Anda harus menyertakan pemberitahuan lisensi ini dan mencantumkan atribusi yang sesuai saat mendistribusikan dataset ini. -->
 
-- **Modifikasi**: Anda dapat memodifikasi dataset ini, tetapi modifikasi harus disertai dengan pemberitahuan yang jelas tentang perubahan yang dilakukan.
+<!-- - **Modifikasi**: Anda dapat memodifikasi dataset ini, tetapi modifikasi harus disertai dengan pemberitahuan yang jelas tentang perubahan yang dilakukan. -->
 
 
 ## Cara Menggunakan
